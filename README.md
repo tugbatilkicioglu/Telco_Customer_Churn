@@ -1,6 +1,5 @@
 ![](Future_of_Artificial_Intelligence.gif)
 
-
 <h1 align="center">Hi 👋, I'm Tugba Tilkicioglu</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
